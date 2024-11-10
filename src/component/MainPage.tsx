@@ -42,7 +42,7 @@ export default function MainPage() {
       <p className=" message">A Passionate Programmer</p>
       <h1 className="heading">Hello Fellow Tech Enthusiast</h1>
       <p className="message">Exploring the World of Code</p>
-      <h2 className="subheading">I Am Soniya</h2>
+      <h2 className="subheading">I Am ABDUL HASEEB</h2>
     </div> 
 
 

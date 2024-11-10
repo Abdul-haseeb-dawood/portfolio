@@ -6,7 +6,7 @@ const Header = () => {
     <div>
        {/* Header */}
     <nav className='haeder'>
-    <h1 className='port'>Soniya</h1>
+    <h1 className='port'> HASEEB</h1>
 
     <ul className='ul-1'>
       <li><Link href={"/"} >Home</Link></li>

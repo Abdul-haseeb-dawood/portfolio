@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="container">
         <p className="text">
-          © {new Date().getFullYear()} Soniya. All Rights Reserved.
+          © {new Date().getFullYear()} ABDUL HASEEB. All Rights Reserved.
         </p>
         <div className="socialIcons">
           <a
